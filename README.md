@@ -36,5 +36,4 @@ In my spare time I do [leetcode](https://leetcode.com) algos / pet projects, som
   <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" title="redux" height="40px">
   <img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" title="jest" height="40px">
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/pwa-icon.png" title="pwa" height="40px">
-  <img src="https://apps.odoo.com/apps/icon_image?module_id=37657" title="rest api" height="40px">
 </div>
