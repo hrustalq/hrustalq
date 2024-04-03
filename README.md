@@ -2,7 +2,7 @@
 
 I'm El'dar Gasanov (Эльдар Гасанов).  
 I work as a full-time frontend-developer at RolfTech.  
-In my spare time I do [leetcode](https://leetcode.com) algos / pet projects, some of them you can see in my repos.
+In my spare time I do [leetcode](https://leetcode.com) algos / pet projects, some of them you can see in my repos, but most of them are private ;).
 
 ### Links:
 
@@ -10,8 +10,11 @@ In my spare time I do [leetcode](https://leetcode.com) algos / pet projects, som
   <a href="https://t.me/Kryst4l320">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="30px">
   </a> 
-  <a href="https://hh.ru/resume/7ddef52fff0bc328740039ed1f5a306c6b4b54">
+  <a href="https://leetcode.com/hrustalq/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="30px">
+  </a>
+  <a href="https://hh.ru/resume/7ddef52fff0bc328740039ed1f5a306c6b4b54">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/HeadHunter_logo.png" height="30px">
   </a>
 </div>
 
