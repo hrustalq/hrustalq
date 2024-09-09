@@ -1,8 +1,8 @@
 ## **Hello there!**
 
 I'm El'dar Gasanov (Эльдар Гасанов).  
-I work as a full-time frontend-developer at RolfTech.  
-In my spare time I do [leetcode](https://leetcode.com) algos / pet projects, some of them you can see in my repos, but most of them are private ;).
+Working as a full-time frontend-developer at RolfTech.  
+In my spare time do [leetcode](https://leetcode.com) algos / pet projects, some of them you can see in my repos, but most of them are private ;).
 
 ### Links:
 
